@@ -5,9 +5,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 
 @SpringBootApplication
-public class ServerAApplication {
+public class ServerBApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ServerAApplication.class, args);
+		SpringApplication.run(ServerBApplication.class, args);
 	}
 }
