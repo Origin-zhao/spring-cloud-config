@@ -1,7 +1,7 @@
-# spring-cloud-config
+# spring-cloud-bus
 
-#### 一个简单的配置中心项目
+#### 基于spring-cloud-bus置中心项目2.0
 
 #### 教程地址:
-http://www.joyuanlive.com/2018/02/05/spring-cloud-config-demo/
+http://www.joyuanlive.com/2018/02/06/spring-cloud-config-demo2/
 
